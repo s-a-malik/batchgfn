@@ -4,7 +4,7 @@ setup(
     name="batchgfn",
     version="0.0.0",
     description="",
-    url="https://github.com/anndvision/miflownet",
+    url="https://github.com/s-a-malik/batchgfn",
     author="Shreshth Malik",
     author_email="shreshth@robots.ox.ac.uk",
     license="Apache-2.0",
