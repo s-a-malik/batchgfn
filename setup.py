@@ -4,9 +4,9 @@ setup(
     name="batchgfn",
     version="0.0.0",
     description="",
-    url="https://github.com/anndvision/miflownet",
-    author="Shreshth Malik",
-    author_email="shreshth@robots.ox.ac.uk",
+    url="",
+    author="Anonymous",
+    author_email="",
     license="Apache-2.0",
     packages=find_packages(),
     install_requires=[

@@ -8,8 +8,6 @@ BatchGFN is a batch active learning method which uses a generative flow network 
 ## Installation
 
 ```.sh
-git clone git@github.com:s-a-malik/batchgfn.git
-cd batchgfn
 conda env create -f environment.yml
 conda activate batchgfn
 ```
