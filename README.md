@@ -26,6 +26,8 @@ source $HOME/.cargo/env
 
 Use command line arguments to set experimental variables. `scripts/main.py` is the main entry point for active learning experiments.
 
+Configs and logs are saved to wandb. Run `wandb login` before running, and `wandb offline` if you do not want to save logs online.
+
 ## Cite
 
 If you found our work useful, please consider citing:
@@ -39,5 +41,6 @@ If you found our work useful, please consider citing:
 }
 ```
 
+## Disclaimer
 
-Configs and logs are saved to wandb. Run `wandb login` before running, and `wandb offline` if you do not want to save logs online.
+This is research code shared without support or guarantee of quality. Please let us know, however, if there is anything wrong or that could be improved and we will try to solve it.
